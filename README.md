@@ -7,8 +7,8 @@ BENEFIT: Saves Users The Hassle of Memorizing Commands
 **************************************************************
 
 Installation Sources  
-[https://eternallybored.org/misc/netcat/  ]
-[https://nmap.org/ncat/  ]
-
+https://eternallybored.org/misc/netcat/  
+https://nmap.org/ncat/  
+  
 Linux CENTOS/RHL  
 dnf install nmap  
