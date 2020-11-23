@@ -1,14 +1,14 @@
 # m3mN
 
-#CREATOR: m3thodman, Alexander Lopez
-#Purpose: Streamline Netcat Functions - File Transfers, Bind Shell, Reverse Bind Shell
-#Benefit: Saves Users The Hassle of Memorizing Commands
+CREATOR: m3thodman, Alexander Lopez
+Purpose: Streamline Netcat Functions - File Transfers, Bind Shell, Reverse Bind Shell
+Benefit: Saves Users The Hassle of Memorizing Commands
 
-#**************************************************************
+**************************************************************
 
-#Installation Sources
-#https://eternallybored.org/misc/netcat/
-#https://nmap.org/ncat/
+Installation Sources
+https://eternallybored.org/misc/netcat/
+https://nmap.org/ncat/
 
-#Linux CENTOS/RHL
-#dnf install nmap
+Linux CENTOS/RHL
+dnf install nmap
