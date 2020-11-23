@@ -1,7 +1,7 @@
 # m3mN
 
 CREATOR: m3thodman, Alexander Lopez  
-PURPOSE Streamline Netcat Functions - File Transfers, Bind Shell, Reverse Bind Shell  
+PURPOSE: Streamline Netcat Functions - File Transfers, Bind Shell, Reverse Bind Shell  
 BENEFIT: Saves Users The Hassle of Memorizing Commands  
 
 **************************************************************
