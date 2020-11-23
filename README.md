@@ -6,7 +6,7 @@ BENEFIT: Saves Users The Hassle of Memorizing Commands
   
 **************************************************************
   
-WARNING: Requires Netcat Installation on Respective OS  
+## WARNING: Requires Netcat Installation on Respective OS  
 Installation Sources  
 https://eternallybored.org/misc/netcat/  
 https://nmap.org/ncat/  
