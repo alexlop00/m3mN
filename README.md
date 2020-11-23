@@ -16,10 +16,10 @@ dnf install nmap
   
 *************************************************************
   
-##Functions  
+## Functions  
 SCOPE: User 1 | User 2  
   
-###File Transfers  
+### File Transfers  
 SCENARIO 1  
 User 1 sets up a listener. User 1 shares a file.  
 User 2 connects to the port of User 1. User 2 receives a file.    
@@ -32,11 +32,11 @@ User 1 connects to the port of User 2. User 1 receives a file.
 SCENARIO 4  
 User 2 connects to the port of User 1. User 2 shares a file.  
 User 1 sets up a listener. User 1 receives a file.    
-Bind Shell  
+### Bind Shell  
 SCENARIO  
 User 1 sets up a listener to share command-line access.  
 User 2 connects to the port of User 1. User 2 receives command-line access to User 1.   
-Reverse Bind Shell  
+### Reverse Bind Shell  
 SCENARIO  
 User 1 sets up a listener.  
 User 2 connects to the port of User 1. User 2 provides User 1 with command-line access.  
